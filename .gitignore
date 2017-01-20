@@ -1,0 +1,9 @@
+SwiftRadio.xcodeproj/xcuserdata/brianstormont.xcuserdatad/xcschemes/xcschememanagement.plist
+
+*.xcscheme
+
+*.xcuserstate
+
+*.xcbkptlist
+xcuserdata
+.DS_Store
